@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "file": "Angelbuch-1.0.apk",
+  "sha256": "3f7569048fe527f272b2b2922c55498716ded3efca52ac23662560a28c03ec5f",
+  "date": "2026-10-29",
+  "notes": [
+    "Erste Version: Fänge mit Foto und GPS, Angelstellen auf der Karte und aus Google Maps, gemeinsamer Speicher für eure Gruppe"
+  ]
+}
