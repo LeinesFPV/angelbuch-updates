@@ -2,16 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.1** (2026-10-29)
+**Aktuelle Version: 1.2** (2026-10-29)
 
-[Angelbuch-1.1.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.1.apk)
+[Angelbuch-1.2.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.2.apk)
 
 ## Neu in dieser Version
-- Registrieren mit Name und Passwort – jeder kann mitmachen
-- Eigene Gruppen gründen und Freunde per Gruppencode einladen
-- Mehrere Gruppen pro Person, Wechsel oben in der App
-- Admins: Gruppe umbenennen, Mitglieder verwalten, neuen Code erzeugen
-- Passwort ändern unter Einstellungen
+- Benachrichtigung, wenn jemand aus deiner Gruppe einen Fang einträgt
+- In der App sofort ein Hinweis bei neuen Fängen
+- Benachrichtigungen unter Einstellungen an- und ausschaltbar
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -20,4 +18,4 @@ Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal 
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `7f5278ae25de3e0dd1e7cb51d0a3c5c406b23e78d248b6bc83d23ddaf5fb9954`
+SHA-256: `bb3746676063a8d3faea2e3794b9a3ce5adf13b9e99d785a975dcd874f4ca4e3`

@@ -1,14 +1,12 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "file": "Angelbuch-1.1.apk",
-  "sha256": "7f5278ae25de3e0dd1e7cb51d0a3c5c406b23e78d248b6bc83d23ddaf5fb9954",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "file": "Angelbuch-1.2.apk",
+  "sha256": "bb3746676063a8d3faea2e3794b9a3ce5adf13b9e99d785a975dcd874f4ca4e3",
   "date": "2026-10-29",
   "notes": [
-    "Registrieren mit Name und Passwort – jeder kann mitmachen",
-    "Eigene Gruppen gründen und Freunde per Gruppencode einladen",
-    "Mehrere Gruppen pro Person, Wechsel oben in der App",
-    "Admins: Gruppe umbenennen, Mitglieder verwalten, neuen Code erzeugen",
-    "Passwort ändern unter Einstellungen"
+    "Benachrichtigung, wenn jemand aus deiner Gruppe einen Fang einträgt",
+    "In der App sofort ein Hinweis bei neuen Fängen",
+    "Benachrichtigungen unter Einstellungen an- und ausschaltbar"
   ]
 }
