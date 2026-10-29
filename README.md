@@ -2,12 +2,16 @@
 
 Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.0** (2026-10-29)
+**Aktuelle Version: 1.1** (2026-10-29)
 
-[Angelbuch-1.0.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.0.apk)
+[Angelbuch-1.1.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.1.apk)
 
 ## Neu in dieser Version
-- Erste Version: Fänge mit Foto und GPS, Angelstellen auf der Karte und aus Google Maps, gemeinsamer Speicher für eure Gruppe
+- Registrieren mit Name und Passwort – jeder kann mitmachen
+- Eigene Gruppen gründen und Freunde per Gruppencode einladen
+- Mehrere Gruppen pro Person, Wechsel oben in der App
+- Admins: Gruppe umbenennen, Mitglieder verwalten, neuen Code erzeugen
+- Passwort ändern unter Einstellungen
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -16,4 +20,4 @@ Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal 
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `3f7569048fe527f272b2b2922c55498716ded3efca52ac23662560a28c03ec5f`
+SHA-256: `7f5278ae25de3e0dd1e7cb51d0a3c5c406b23e78d248b6bc83d23ddaf5fb9954`
