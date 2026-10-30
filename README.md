@@ -2,13 +2,14 @@
 
 Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.3.1** (2026-10-30)
+**Aktuelle Version: 1.3.2** (2026-10-30)
 
-[Angelbuch-1.3.1.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.3.1.apk)
+[Angelbuch-1.3.2.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.3.2.apk)
 
 ## Neu in dieser Version
+- Absturzschutz: Die App öffnet sich auch dann, wenn beim Start etwas schiefgeht
+- Fehler werden automatisch gemeldet, damit sie schnell behoben werden können
 - Startet schneller und hängt nicht mehr bei schlechtem Empfang
-- Wartungspause: Hinweis beim Öffnen, wenn das Angelbuch gerade pausiert ist
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -17,4 +18,4 @@ Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal 
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `64f38a5d61b30a9cf02bdc7572d78942dd9c189b320effdb3f29fc74455705b6`
+SHA-256: `440df4bbb3fa01afbabbdb9141ea1f465ca11b5ba2eac96d8061b54fe936647c`
