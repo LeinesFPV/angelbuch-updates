@@ -2,14 +2,13 @@
 
 Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal am Tag in `version.json` nach, ob es etwas Neues gibt.
 
-**Aktuelle Version: 1.2** (2026-10-29)
+**Aktuelle Version: 1.3** (2026-10-30)
 
-[Angelbuch-1.2.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.2.apk)
+[Angelbuch-1.3.apk herunterladen](https://github.com/LeinesFPV/angelbuch-updates/raw/main/Angelbuch-1.3.apk)
 
 ## Neu in dieser Version
-- Benachrichtigung, wenn jemand aus deiner Gruppe einen Fang einträgt
-- In der App sofort ein Hinweis bei neuen Fängen
-- Benachrichtigungen unter Einstellungen an- und ausschaltbar
+- Wartungspause: Hinweis beim Öffnen, wenn das Angelbuch gerade pausiert ist
+- Kleinere Verbesserungen
 
 ## Installieren
 1. APK auf dem Handy herunterladen und öffnen.
@@ -18,4 +17,4 @@ Hier liegen nur die fertigen Versionen der Angelbuch-App. Die App schaut einmal 
 
 Ältere Versionen liegen im Ordner [alte-versionen](alte-versionen).
 
-SHA-256: `bb3746676063a8d3faea2e3794b9a3ce5adf13b9e99d785a975dcd874f4ca4e3`
+SHA-256: `68cc1e9a68c89f57c02603b8f37adf76fdf32868631ab56e87c32e0fcf722611`
